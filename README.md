@@ -1,9 +1,14 @@
 ## Hello! I'm Nicolas Martins and I probably working at something in the cloud! 
 
 
-- 🌱 I’m currently learning Kubernetes
-- 👯 I’m looking to collaborate on Cloud Projetcs
-- 🏎️ Fun fact about me: I love Formula 1
+### 🔧 Tecnologias e Ferramentas  
+- ☁️ Cloud: AWS (EC2, S3, Lambda, VPC, IAM) 
+- 🏗️ Infra as Code: Terraform
+- 🐳 Containers & Orquestração: Docker | Kubernetes  
+- 🔄 CI/CD: GitHub Actions | Jenkins  
+- 📊 Observabilidade: Prometheus | Grafana
+- 💻 Linguagens: Python | Bash
+- 📜 Versionamento: Git & GitHub  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
